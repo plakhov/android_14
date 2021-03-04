@@ -1,0 +1,126 @@
+{
+  "instant" : {
+    "epochSecond" : 1614706994,
+    "nanoOfSecond" : 872000000
+  },
+  "thread" : "main",
+  "level" : "TRACE",
+  "loggerName" : "Main",
+  "message" : "This is trace",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614706995,
+    "nanoOfSecond" : 36000000
+  },
+  "thread" : "main",
+  "level" : "DEBUG",
+  "loggerName" : "Main",
+  "message" : "This is debug",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614706995,
+    "nanoOfSecond" : 37000000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "Main",
+  "message" : "This is info",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614706995,
+    "nanoOfSecond" : 38000000
+  },
+  "thread" : "main",
+  "level" : "WARN",
+  "loggerName" : "Main",
+  "message" : "This is warn",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614706995,
+    "nanoOfSecond" : 38000000
+  },
+  "thread" : "main",
+  "level" : "ERROR",
+  "loggerName" : "Main",
+  "message" : "This is error",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614706995,
+    "nanoOfSecond" : 39000000
+  },
+  "thread" : "main",
+  "level" : "FATAL",
+  "loggerName" : "Main",
+  "message" : "This is fatal",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614707520,
+    "nanoOfSecond" : 580000000
+  },
+  "thread" : "main",
+  "level" : "ERROR",
+  "loggerName" : "Main",
+  "message" : "Parameter b=0",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614707584,
+    "nanoOfSecond" : 271000000
+  },
+  "thread" : "main",
+  "level" : "ERROR",
+  "loggerName" : "Main",
+  "message" : "Parameter b=0",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614707602,
+    "nanoOfSecond" : 394000000
+  },
+  "thread" : "main",
+  "level" : "ERROR",
+  "loggerName" : "Main",
+  "message" : "Parameter b=0",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
